@@ -4,11 +4,13 @@ Welcome to my Technical Assignment Repository! This repository has been created 
 
 ## Contents
 
-1. **Test plan:** The test plan for Logins Management Page is located [here](https://github.com/TanyaQACanada/cy_js_assignment/wiki/Test-plan-for-Logins-Management-Page)
+1. **Test Plan:** The Test Plan for Logins Management Page is located [here](https://github.com/TanyaQACanada/cy_js_assignment/wiki/Test-plan-for-Logins-Management-Page)
 
-2. **Codebase:** This section contains the source code for the implementation of the technical assignment. Feel free to explore the code and documentation to understand my approach and problem-solving skills.
+2. **Test Cases:** Test cases can be found [here](https://github.com/TanyaQACanada/cy_js_assignment/wiki/Test-Cases)
 
-3. **Instructions:** Detailed instructions on how to set up and run the code, along with any additional information relevant to the evaluation of the assignment.
+3. **Codebase:** This section contains the source code for the implementation of the technical assignment. Feel free to explore the code and documentation to understand my approach and problem-solving skills.
+
+4. **Instructions:** Detailed instructions on how to set up and run the code, along with any additional information relevant to the evaluation of the assignment.
 
 ## Getting Started
 
