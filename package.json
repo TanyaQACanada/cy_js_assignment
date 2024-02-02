@@ -1,0 +1,14 @@
+{
+  "name": "cy_js_assignment",
+  "version": "1.0.0",
+  "description": "Technical Assignment Cypress/JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tanya Kosachova",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.6.4"
+  }
+}
