@@ -1,6 +1,6 @@
-describe('Update Button Functionality', () => {
+describe('Logins Manageent page functionality', () => {
   
-  it('should update and submit credentials', () => {
+  it('Required logins Update button', () => {
     Cypress.once('uncaught:exception', () => false) // added to suppress uncaught exception error, that is not affecting the test
     // full link located in cypress.config.js
     cy.visit('/account/signin');
